@@ -8,7 +8,7 @@
 
 ## Overview
 
-<div align="center"><img src="./assets/overview.jpg" width=100%></div>
+<div align="center"><img src="./assets/overview.jpg" width=60%></div>
 
 We present *Perturbed Gaussian Ensemble*, a novel active view
 selection framework for progressive reconstruction tailored specifically to X-ray
