@@ -19,7 +19,7 @@ accurately localizes epistemic uncertainty and predicts the next best view.
 
 ## Installation
 
-```
+```bash
 # Download code
 git clone https://github.com/yulunwu0108/Perturbed-Gaussian-Ensemble.git --recursive
 
